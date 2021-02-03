@@ -1,2 +1,2 @@
-# Tivi20OAPython
+# OhjelmointiTA2
 Repositorio Python tehtäviä varten
