@@ -1,0 +1,21 @@
+VSCODE ASETUKSET:
+
+Destination location:
+      C:\Users\Supa\AppData\Local\Programs\Microsoft VS Code
+
+Start Menu folder:
+      Visual Studio Code
+
+Additional tasks:
+      Additional icons:
+         Create a desktop icon
+      Other:
+         Add "Open with Code" action to Windows Explorer file context menu
+         Add "Open with Code" action to Windows Explorer directory context menu
+         Add to PATH (requires shell restart)
+
+
+
+
+POWERSHELL SKRIPTIEN SALLIMINEN:
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
